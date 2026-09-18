@@ -22,6 +22,9 @@ I built a custom **glassmorphism dashboard** that visualizes my GitHub activity 
 complete with a hex-grid contribution universe, orbiting tech icons, and 3D tilt project cards.
 
 ### 👉 **[Explore the Live Dashboard →](https://github-dashboard-ten-tau.vercel.app/)**
+<img width="3333" height="1750" alt="og-preview2" src="https://github.com/user-attachments/assets/4b6083a1-182d-4c59-a1b9-e800055eef51" />
+
+
 
 <p align="center">
   <a href="YOUR-DASHBOARD-URL" target="_blank">
