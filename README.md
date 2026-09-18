@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi there 👋 I'm Himanshu
+Dashboard
+🔗 View My Interactive Dashboard →
 
+🐍 Python • 🟨 JavaScript • 🐼 Pandas • 🧠 ML
+📊 Always shipping — check the dashboard for live stats
 <!--
 **himanshugpt09/himanshugpt09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
