@@ -1,8 +1,7 @@
 Hi there 👋 I'm Himanshu
 
 Dashboard
-
-🔗 [View My Interactive Dashboard]([https://himanshu-dashboard.vercel.app/](https://github-dashboard-ten-tau.vercel.app/)) →
+[🔗 View My Interactive Dashboard]([https://vercel.app](https://github-dashboard-ten-tau.vercel.app/))  →
 
 🐍 Python • 🟨 JavaScript • 🐼 Pandas • 🧠 ML
 📊 Always shipping — check the dashboard for live stats
