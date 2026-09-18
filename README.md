@@ -91,7 +91,7 @@ complete with a hex-grid contribution universe, orbiting tech icons, and 3D tilt
 - 🔭 Building data-driven applications with Python + ML
 - 🌱 Learning advanced ML/LLM agent patterns
 - 💬 Ask me about **Python, Pandas, NumPy, data analysis, ML pipelines**
-- 📫 Reach me at `himanshugpt09@users.noreply.github.com`
+- 📫 Reach me at `www.linkedin.com/in/himanshu-gupta-ab6911195`
 - ⚡ Fun fact: This dashboard auto-syncs with my GitHub every 30 minutes via ISR
 
 ---
