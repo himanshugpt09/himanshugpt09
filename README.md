@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himanshu Gupta
 
-> Data Scientist · ML Engineer · Python Developer · Always Shipping
+> Aspiring Data Scientist · Learning in Public · Python Enthusiast
 
 <a href="YOUR-DASHBOARD-URL" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/📊_Interactive_Dashboard-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Dashboard" />
